@@ -73,7 +73,7 @@ st.markdown(f"""
 st.markdown("""
 <div class="app-header">
     <h1>🏗️ İnşaat Proje Maliyeti Tahmin Aracı</h1>
-    <p>İnşaat Mühendisliğinde Yapay Zekâ Uygulamaları — Hafta 2 Lab Projesi</p>
+    <p>Caner KARAOĞLAN - 2021232047 - 0507 071 0144</p>
 </div>
 """, unsafe_allow_html=True)
 
